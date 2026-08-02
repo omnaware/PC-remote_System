@@ -57,9 +57,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email - hdabhade7@gmail.com
-LinkedIn - https://www.linkedin.com/in/harshad-dabhade-a2a584175/
+Email - omnaware8@gmail.com
+LinkedIn -https://www.linkedin.com/in/om-naware-a9079723b/
 
-Project Link: [https://github.com/Harshad09/PC-Remote-Access](https://github.com/Harshad09/PC-Remote-Access)
+Project Link: https://github.com/omnaware/PC-remote_System/edit/main/README.md
 
 #### For query/issues open Github issue
