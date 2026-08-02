@@ -60,6 +60,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Email - omnaware8@gmail.com
 LinkedIn -https://www.linkedin.com/in/om-naware-a9079723b/
 
-Project Link: https://github.com/omnaware/PC-remote_System/edit/main/README.md
+Project Link: [https://github.com/omnaware/PC-remote_System/edit/main/README.md](https://github.com/omnaware/PC-remote_System)
 
 #### For query/issues open Github issue
